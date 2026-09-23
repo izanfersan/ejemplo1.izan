@@ -1,5 +1,5 @@
-#Ejemplo1.izan
-##primer proyecto con github
+# Ejemplo1.izan
+## Primer proyecto con github
 Estamos en el **Centro Gregorio Fernandez**. *Este es un primer proyecto github
 
 > Centro de formacion Gregorio Fernandez. Valladolid.
