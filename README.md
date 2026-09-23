@@ -1,4 +1,4 @@
-#Ejem01_Holamundo
+#Ejemplo1.izan
 ##primer proyecto con github
 Estamos en el **Centro Gregorio Fernandez**. *Este es un primer proyecto github
 
@@ -13,4 +13,4 @@ Hemos colaborado en el proyecto:
 - Lucas
 - Ana
 
-Esta modificacion nos sirve para aprender markdown que por ejemplo los titulos '<H1></H1>' los coloca en una almoadilla.
+Esta modificacion nos sirve para aprender markdown que por ejemplo los titulos "<H1></H1>" los coloca en una almoadilla.
