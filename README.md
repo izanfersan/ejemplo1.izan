@@ -16,3 +16,5 @@ Hemos colaborado en el proyecto:
 Esta modificacion nos sirve para aprender markdown que por ejemplo los titulos `<H1></H1>` los coloca en una almoadilla.
 
 Actualización realizada con Windows
+
+Estamos en la rama main 
